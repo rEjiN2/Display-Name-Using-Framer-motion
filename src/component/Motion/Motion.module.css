@@ -1,0 +1,16 @@
+.body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background: #f3f3f3;
+  }
+  
+ .circle,
+  .rect,
+  .line {
+    stroke-width: 40px;
+    stroke-linecap: round;
+    fill: transparent;
+  }
+  
